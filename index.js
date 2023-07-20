@@ -9,7 +9,7 @@ var app = express();
 
 app.get(‘/’, function (req, res) {
 
-res.send(‘hello all from praju’);
+res.send(‘hello all from praju 2’);
 
 });
 
