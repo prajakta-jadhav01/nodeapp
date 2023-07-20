@@ -9,7 +9,7 @@ var app = express();
 
 app.get(‘/’, function (req, res) {
 
-res.send(‘hello all from fortune’);
+res.send(‘hello all from fortune cloud’);
 
 });
 
